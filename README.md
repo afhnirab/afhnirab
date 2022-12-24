@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphosis&label=Profile%20views&color=0e75b6&style=flat" alt="alphosis" /> </p>
 
-- 🔭 I’m currently working in **BNX Network Inc.**
+- 🔭 I’m currently working at **BNX Network Inc.**
 
 - 🌱 I’m currently learning **Restful API**
 
