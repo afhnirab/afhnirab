@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/C4D16AQGtF4VLCQvfzw/profile-displaybackgroundimage-shrink_350_1400/0/1657058642784?e=1677110400&v=beta&t=rtw2xD5l1rAGIqQtOPGRrb82pu6xcRE-0_fAWeU6yLA)
-
 <h1 align="center">Hi 👋, I'm Al Fahad Hossan Nirab</h1>
 <marquee behavior="slide"><h3 align="center">Software Quality & Automation Engineer</h3></marquee>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
