@@ -11,11 +11,12 @@
  <h3 align="center">Connect with me:</h3>
   <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/afhnirab/" target="_blank" rel="nofollow">
+  <a href="https://www.linkedin.com/in/afhnirab/" target="_blank" rel="nofollow" style="outline: none; box-shadow: 0 0 5px rgba(0, 0, 255, 0.5); border-radius: 4px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Profile" style="max-width: 100%;">
 </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:afhnirab97@gmail.com">
+ <a href="mailto:afhnirab97@gmail.com" style="outline: none;">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" style="max-width: 100%;">
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
