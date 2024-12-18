@@ -1,11 +1,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=afhnirab&label=Profile%20views&color=4E97D1&style=flat" alt="afhnirab" /></p>
 <h1 align="center">Hi 👋, I'm Al Fahad Hossan Nirab</h1>
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D78&center=true&width=435&lines=Full+Stack+SQA+Engineer;Always+learning+new+things." alt="Typing SVG" />
-  </a>
-  <br />
+  </a><br/>
   <img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Profile Image" width="400" />
 </p>
 <!-- Social icons section -->
@@ -26,13 +24,13 @@
   
 - 🔭 I’m currently working on **Manual and Automation testing**
 
-- 🌱 I’m currently learning **Cypress automation**
+- 🌱 I’m currently learning **Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/afhnirab?tab=repositories](https://github.com/afhnirab?tab=repositories)
 
 - 💬 Ask me about **Manual testing, Automation testing, API Testing**
 
-- ⚡ Fun fact **Buy me a coffee, being free comedian is tough**
+- ⚡ Fun fact **If you could travel at the speed of light, it would take you over 100,000 years to cross our Milky Way galaxy. So, a road trip through the galaxy would definitely need a lot of snacks! 🚀🍪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
