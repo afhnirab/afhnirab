@@ -18,8 +18,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
     
    <a href="https://www.linkedin.com/in/afhnirab/" target="_blank" rel="nofollow" style="outline: none;">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="max-width: 100%; vertical-align: middle; margin: 0;">
-  </a>
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Profile" style="max-width: 100%; vertical-align: middle; margin: 0;">
+</a>
    <a href="mailto:afhnirab97@gmail.com" style="outline: none;">
      <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" style="max-width: 100%;">
    </a>
