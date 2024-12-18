@@ -18,7 +18,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
     
    <a href="https://www.linkedin.com/in/afhnirab/" target="_blank" rel="nofollow" style="outline: none;">
-     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Profile" style="max-width: 100%;">
+     <img src="![image](https://github.com/user-attachments/assets/50a5a145-83c4-4c7b-824f-08986d23dfe8)" alt="LinkedIn Profile" style="max-width: 100%;">
    </a>
    <a href="mailto:afhnirab97@gmail.com" style="outline: none;">
      <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" style="max-width: 100%;">
