@@ -1,14 +1,14 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=afhnirab&label=Profile%20views&color=4E97D1&style=flat" alt="afhnirab" /> 
-</p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=afhnirab&label=Profile%20views&color=4E97D1&style=flat" alt="afhnirab" /></p>
 <h1 align="center">Hi 👋, I'm Al Fahad Hossan Nirab</h1>
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?          font=Fira+Code&pause=1000&color=F75D78&center=true&width=435&lines=Full+Stack+SQA+Engineer;Always+learning+new+things." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D78&center=true&width=435&lines=Full+Stack+SQA+Engineer;Always+learning+new+things." alt="Typing SVG" />
   </a>
+  <br />
+  <img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Profile Image" width="400" />
 </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 &nbsp;&nbsp;&nbsp;&nbsp;
