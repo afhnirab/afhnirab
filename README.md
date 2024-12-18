@@ -11,7 +11,7 @@
  <h3 align="center">Connect with me:</h3>
   <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/afhnirab/" rel="nofollow"><img src="https://camo.githubusercontent.com/24a9722843d63beabe8ac6c05972cbef7815bf465986c6a6e287d01c05def2bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3030373762353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e" data-canonical-src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&amp;logo=linkedin" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/afhnirab/" rel="nofollow"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&amp;logo=linkedin" style="max-width: 100%;"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:afhnirab97@gmail.com"><img src="https://camo.githubusercontent.com/84fc895aed5641a4149ef261c5fa56958cbe915e55f23408e55a6bd79e70f8cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6c69676874677265793f7374796c653d666c6174266c6f676f3d676d61696c" data-canonical-src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&amp;logo=gmail" style="max-width: 100%;"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
