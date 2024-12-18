@@ -16,7 +16,7 @@
 </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:afhnirab97@gmail.com" style="outline: none;">
+ <a href="mailto:afhnirab97@gmail.com" target="_blank" rel="nofollow" style="outline: none; box-shadow: 0 0 5px rgba(0, 0, 255, 0.5); border-radius: 4px;">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" style="max-width: 100%;">
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
